@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/AnsariTech-25667/resume-parser-project.git
+	fetch = +refs/*:refs/*
+	mirror = true
